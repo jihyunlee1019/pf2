@@ -154,6 +154,21 @@
   }
   main section#intro div ul li a p{
   }
+  /* 인재경영 */
+  #TalentManagement section .wrap h3 {
+    margin-bottom: 15px;
+    margin-top: 10px;  
+}
+  #TalentManagement section .wrap > p{
+    margin-block: 15px;
+  }
+  #TalentManagement section .wrap div{
+    line-height: 1.3;
+  }
+  #TalentManagement section .wrap ul li h4{
+    margin-bottom: 15px;
+    margin-top: 14px; 
+  }
   /*  사회공헌  */
   #society{
     padding-left: 10px;
@@ -247,7 +262,6 @@
   }
   
 }
-
 
 
 

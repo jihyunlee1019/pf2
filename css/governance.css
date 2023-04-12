@@ -9,13 +9,13 @@
   
 }
 #governance nav ol li{
-  text-align: center;
+  
 }
 #governance nav ol li:first-child{
 
 }
 #governance nav ol li:nth-child(n+2){
-
+ 
 }
 #governance nav ol li:last-child{
 
@@ -24,7 +24,7 @@
 
 }
 #governance nav ol li:first-child a{
-
+  
 }
 #governance section{
     
@@ -75,16 +75,22 @@
 }
 #governance section div ul li:first-child a{
 }
-#governance section div  h3{
-  margin-top:80px;
+
+#governance section div h3{
   margin-bottom: 20px;
+  margin-top: 80px;
 }
-#governance section div h3+div{ /* + 형제선택자 h3바로뒤에오는 div */  
+#governance section div h3+div{ /* +형제선택자 h3 바로 뒤에오는 div*/
+
   border: 1px solid #ccc;
   padding: 20px;
   padding-bottom: 40px;
   width: 1100px;
   box-sizing: border-box;
+}
+
+#governance section div ul li h3{
+  margin-bottom: 20px;
 }
 #governance section div ul li p{
     

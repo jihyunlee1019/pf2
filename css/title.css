@@ -52,7 +52,7 @@ div#title{
     top: -16px;
   }
   div#title a{
-    background-color: green;
+    background-color: #3e4a5e;
     color: white;
     width: 100px;
     height: 40px;
@@ -71,10 +71,10 @@ div#title{
     width: 0;
     height: 0;
     display: block;
-    border: 50px solid green;
+    border: 50px solid #3e4a5e;
     border-top-color: transparent;
     border-right-color: transparent;
-    border-bottom-color: green;
+    border-bottom-color: #3e4a5e;
     border-left-color: transparent;
     position: absolute;
     top: -70px;
@@ -90,8 +90,8 @@ div#title{
     width: 0;
     height: 0;
     display: block;
-    border: 50px solid green;
-    border-top-color: green;
+    border: 50px solid #3e4a5e;
+    border-top-color: #3e4a5e;
     border-right-color: transparent;
     border-bottom-color: transparent;
     border-left-color: transparent;

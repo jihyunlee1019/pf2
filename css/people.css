@@ -69,6 +69,7 @@ top: calc(100px - 57px);
 }
 #people section div ul li dl{
   border: 1px solid #ccc;
+  border-top: 3px solid blue;
   padding: 20px;
   padding-bottom: 40px;
   min-height: 220px;
